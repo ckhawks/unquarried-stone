@@ -1,0 +1,24 @@
+{
+  "itemGroup.unquarriedstone": "Unquarried Stone",
+  "item.unquarriedstone.clay_ball_white": "White Clay Ball",
+  "item.unquarriedstone.clay_ball_black": "Black Clay Ball",
+  "item.unquarriedstone.clay_ball_red": "Red Clay Ball",
+  "item.unquarriedstone.clay_ball_pink": "Pink Clay Ball",
+  "item.unquarriedstone.clay_ball_green": "Green Clay Ball",
+  "item.unquarriedstone.clay_ball_blue": "Blue Clay Ball",
+  "item.unquarriedstone.clay_ball_orange": "Orange Clay Ball",
+  "item.unquarriedstone.clay_ball_purple": "Purple Clay Ball",
+  "block.unquarriedstone.unquarried_stone": "Unquarried Stone",
+  "block.unquarriedstone.abyssal_stone": "Abyssasl Stone",
+  "block.unquarriedstone.blue_stone": "Blue Stone",
+  "block.unquarriedstone.red_stone": "Red Stone",
+  "block.unquarriedstone.green_stone": "Green Stone",
+  "block.unquarriedstone.orange_stone": "Orange Stone",
+  "block.unquarriedstone.pink_stone": "Pink Stone",
+  "block.unquarriedstone.purple_stone": "Purple Stone",
+  "item.unquarriedstone.unquarried_helmet": "Unquarried Helmet",
+  "item.unquarriedstone.unquarried_chestplate": "Unquarried Chestplate",
+  "item.unquarriedstone.unquarried_leggings": "Unquarried Leggings",
+  "item.unquarriedstone.unquarried_boots": "Unquarried Boots"
+
+}

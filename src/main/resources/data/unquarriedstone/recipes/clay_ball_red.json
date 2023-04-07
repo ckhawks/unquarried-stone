@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "/##",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:clay_ball"
+    },
+    "/": {
+      "tag": "forge:dyes/red"
+    }
+  },
+  "result": {
+    "item": "unquarriedstone:clay_ball_red",
+    "count": 8
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "unquarriedstone:unquarried_stone",
+    "unquarriedstone:abyssal_stone",
+    "unquarriedstone:red_stone",
+    "unquarriedstone:blue_stone",
+    "unquarriedstone:green_stone",
+    "unquarriedstone:orange_stone",
+    "unquarriedstone:pink_stone",
+    "unquarriedstone:purple_stone"
+  ]
+}
